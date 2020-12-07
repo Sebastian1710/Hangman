@@ -1,6 +1,6 @@
 # Hangman
 - Name: Hangman.
-- Descriptions: The typical hangman game made in pygame.
+- Description: The typical hangman game made in pygame.
 - Version: 1.0.
 - Release date: 7/12/2020.
 - Creator: Sebastián Ratzer.
